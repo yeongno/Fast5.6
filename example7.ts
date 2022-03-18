@@ -14,7 +14,6 @@ p6.hello();
 
 const p7 = new Person5();
 p7.hello();
-
 p6.change();
 p7.hello();
 
