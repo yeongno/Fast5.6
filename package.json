@@ -1,0 +1,23 @@
+{
+  "name": "5.6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yeongno/Fast5.6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yeongno/Fast5.6/issues"
+  },
+  "homepage": "https://github.com/yeongno/Fast5.6#readme",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
